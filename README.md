@@ -1,4 +1,4 @@
-# getting-started
+# getting-started with GitHub
 The world's most approachable open source project. This repository is a guide to contributing to this repository. A repository (or repo) is what we call a project on Github. You can think of a repository as just a folder with files in it. In this guide, you will be adding a file (your file!) to the [`contributors`](/contributors) folder in this repository. Don't be scared! You can do this! Follow these instructions to make your first open source contribution!
 
 ## Create a Github Account
